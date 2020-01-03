@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="IV Leadership HTML" />
+              <option name="title_text" value="IV Leadership HTML V4" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -76,7 +76,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1208,51 +1208,51 @@
   <string_tables>
     <string_table name="npnxnanbnsnfns00000000011">
       <string id="acc_active">active</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="acc_definition">definition</string>
+      <string id="acc_finish">finish</string>
+      <string id="acc_next">next</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="acc_previous">previous</string>
+      <string id="acc_replay">replay</string>
+      <string id="acc_resources">resources</string>
+      <string id="acc_search_input">search</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="acc_volume">volume</string>
+      <string id="bio">Bio</string>
       <string id="check_include">Check to include</string>
       <string id="clear">Clear and return to Menu</string>
       <string id="close">Close</string>
-      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="closed_captions">Captions</string>
       <string id="continue">Continue</string>
       <string id="continueresponsive">Continue</string>
+      <string id="definition">Definition</string>
+      <string id="disabled_orientation">Please rotate your device</string>
       <string id="exit">Exit</string>
       <string id="filter">Filter</string>
       <string id="finish">FINISH</string>
-      <string id="acc_finish">finish</string>
-      <string id="definition">Definition</string>
-      <string id="acc_definition">definition</string>
       <string id="glossary">Glossary</string>
-      <string id="terms">Terms</string>
-      <string id="outline">MENU</string>
-      <string id="disabled_orientation">Please rotate your device</string>
-      <string id="next">Next</string>
-      <string id="acc_next">next</string>
-      <string id="transcript_chk">Notes</string>
-      <string id="transcript">Notes</string>
-      <string id="bio">Bio</string>
       <string id="more_info">More info</string>
-      <string id="closed_captions">Captions</string>
-      <string id="acc_pause">pause</string>
-      <string id="acc_play">play</string>
-      <string id="send_an_email">Send an email</string>
+      <string id="next">Next</string>
+      <string id="outline">MENU</string>
       <string id="prev">PREV</string>
-      <string id="acc_previous">previous</string>
       <string id="question_list">Question List</string>
-      <string id="acc_replay">replay</string>
       <string id="resources">Resources</string>
-      <string id="acc_resources">resources</string>
       <string id="restart">Restart</string>
       <string id="resume">Resume</string>
       <string id="search">Search...</string>
-      <string id="acc_search_input">search</string>
       <string id="search_in">Search in:</string>
       <string id="search_results">Search Results</string>
-      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="send_an_email">Send an email</string>
       <string id="slide_text_chk">Slide Text</string>
-      <string id="submitall">SUBMIT ALL</string>
-      <string id="acc_submitall">submit all</string>
       <string id="submit">SUBMIT</string>
-      <string id="acc_submit">submit</string>
-      <string id="acc_volume">volume</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="terms">Terms</string>
+      <string id="transcript">Notes</string>
+      <string id="transcript_chk">Notes</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1270,19 +1270,26 @@
         <slidelink slideid="_player.6WQWnqXvoR7" displaytext="Why InterVarsity is Becoming a Competency-Based Organization" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6WQWnqXvoR7.6ZvFaYyy2J9" displaytext="INTERVARSITY’S LEADERSHIP COMPETENCIES" expand="false" type="slide" />
-            <slidelink slideid="_player.6WQWnqXvoR7.6mQFqqc7kWQ" displaytext="Greetings" expand="false" type="slide" />
-            <slidelink slideid="_player.6WQWnqXvoR7.6qdsUPLBFGQ" displaytext="Greetings" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.6kapbAVQf2B" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.6VtUwzEQqRj" displaytext="Background" expand="false" type="slide" />
-            <slidelink slideid="_player.6WQWnqXvoR7.69Vhv4F5MQB" displaytext="Background" expand="false" type="slide" />
-            <slidelink slideid="_player.6WQWnqXvoR7.5z3q8kVPmpV" displaytext="Background" expand="false" type="slide" />
-            <slidelink slideid="_player.6WQWnqXvoR7.5vygBrTb4dW" displaytext="Why" expand="false" type="slide" />
+            <slidelink slideid="_player.6WQWnqXvoR7.6ZY0hnhv7Y4" displaytext="Background" expand="false" type="slide" />
+            <slidelink slideid="_player.6WQWnqXvoR7.6H9bWbrrISg" displaytext="Background" expand="false" type="slide" />
+            <slidelink slideid="_player.6WQWnqXvoR7.6OZmzFonVg9" displaytext="Background" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.6brXO4riD1W" displaytext="The benefits" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.6XKWzoOVXjH" displaytext="What's a competency?" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.5kTGM09Kp1R" displaytext="There are nine?" expand="false" type="slide" />
-            <slidelink slideid="_player.6WQWnqXvoR7.6n3G5CZZyXA" displaytext="THE 9 COMPETENCIES" expand="false" type="slide" />
+            <slidelink slideid="_player.6WQWnqXvoR7.5YBhnAeESNr" displaytext="THE 9 COMPETENCIES" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.6DwXYD3XsFR" displaytext="THE 9 COMPETENCIES" expand="false" type="slide" />
             <slidelink slideid="_player.6WQWnqXvoR7.6fl8seeL9lh" displaytext="End" expand="false" type="slide" />
+            <slidelink slideid="_player.6WQWnqXvoR7.6MOxsFpZqIG" displaytext="Completion Screen" expand="false" type="slide" />
+            <slidelink slideid="_player.6WQWnqXvoR7.5dyQF4t0Tef" displaytext="Exit" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5UmsmKnepy5" displaytext="Old Styles" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5UmsmKnepy5.6e8G4ghJVmY" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5UmsmKnepy5.6rjZlm8M4R0" displaytext="Why" expand="false" type="slide" />
+            <slidelink slideid="_player.5UmsmKnepy5.5bUJWuEBWVc" displaytext="WHAT YOU NEED TO LEAD" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
